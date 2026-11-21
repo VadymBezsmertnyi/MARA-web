@@ -1,0 +1,1058 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-02-28 15:36+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+msgid "Back"
+msgstr "Back"
+
+#. js-lingui-explicit-id
+msgid "Logo"
+msgstr "Logo"
+
+#. js-lingui-explicit-id
+msgid "Home"
+msgstr "Home"
+
+#. js-lingui-explicit-id
+msgid "Term of use"
+msgstr "Term of use"
+
+#. js-lingui-explicit-id
+msgid "Privacy policy"
+msgstr "Privacy policy"
+
+#. js-lingui-explicit-id
+msgid "Total"
+msgstr "Total"
+
+#. js-lingui-explicit-id
+msgid "Used"
+msgstr "Used"
+
+#. js-lingui-explicit-id
+msgid "Remaining"
+msgstr "Remaining"
+
+#. js-lingui-explicit-id
+msgid "Select language"
+msgstr "Select language"
+
+#. js-lingui-explicit-id
+msgid "Map is not available"
+msgstr "Map is not available"
+
+#. js-lingui-explicit-id
+msgid "Please contact the administrator"
+msgstr "Please contact the administrator"
+
+#. js-lingui-explicit-id
+msgid "Close"
+msgstr "Close"
+
+#. js-lingui-explicit-id
+msgid "Selected place"
+msgstr "Selected place"
+
+#. js-lingui-explicit-id
+msgid "Change place"
+msgstr "Change place"
+
+#. js-lingui-explicit-id
+msgid "City"
+msgstr "City"
+
+#. js-lingui-explicit-id
+msgid "Result search"
+msgstr "Result search"
+
+#. js-lingui-explicit-id
+msgid "If there is no suitable option in the list, use 'Deep Search'"
+msgstr "If there is no suitable option in the list, use 'Deep Search'"
+
+#. js-lingui-explicit-id
+msgid "Disable Deep Search"
+msgstr "Disable Deep Search"
+
+#. js-lingui-explicit-id
+msgid "Enable Deep Search"
+msgstr "Enable Deep Search"
+
+#. js-lingui-explicit-id
+msgid "Street"
+msgstr "Street"
+
+#. js-lingui-explicit-id
+msgid "Please specify the coordinates on the map"
+msgstr "Please specify the coordinates on the map"
+
+#. js-lingui-explicit-id
+msgid "Latitude"
+msgstr "Latitude"
+
+#. js-lingui-explicit-id
+msgid "Longitude"
+msgstr "Longitude"
+
+#. js-lingui-explicit-id
+msgid "Submit"
+msgstr "Submit"
+
+#. js-lingui-explicit-id
+msgid "Moto"
+msgstr "Moto"
+
+#. js-lingui-explicit-id
+msgid "Auto"
+msgstr "Auto"
+
+#. js-lingui-explicit-id
+msgid "Save"
+msgstr "Save"
+
+#. js-lingui-explicit-id
+msgid "Select type workshop"
+msgstr "Select type workshop"
+
+#. js-lingui-explicit-id
+msgid "Sign in"
+msgstr "Sign in"
+
+#. js-lingui-explicit-id
+msgid "You can sign in using:"
+msgstr "You can sign in using:"
+
+#. js-lingui-explicit-id
+msgid "Profile"
+msgstr "Profile"
+
+#. js-lingui-explicit-id
+msgid "Sign out"
+msgstr "Sign out"
+
+#. js-lingui-explicit-id
+msgid "Workshops"
+msgstr "Workshops"
+
+#. js-lingui-explicit-id
+msgid "Events"
+msgstr "Events"
+
+#. js-lingui-explicit-id
+msgid "Products"
+msgstr "Products"
+
+#. js-lingui-explicit-id
+msgid "Name of the {otherName}"
+msgstr "Name of the {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
+msgstr "The text must contain a minimum of {min} and a maximum of {max} characters."
+
+#. js-lingui-explicit-id
+msgid "The place of the {otherName}"
+msgstr "The place of the {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The location of the {otherName} must be selected."
+msgstr "The location of the {otherName} must be selected."
+
+#. js-lingui-explicit-id
+msgid "Date of the {otherName}"
+msgstr "Date of the {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The end date must be greater than the start date."
+msgstr "The end date must be greater than the start date."
+
+#. js-lingui-explicit-id
+msgid "Tell us about the {otherName}"
+msgstr "Tell us about the {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Description of the {otherName}"
+msgstr "Description of the {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Phone number the {otherName}"
+msgstr "Phone number the {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter phone number"
+msgstr "Please enter phone number"
+
+#. js-lingui-explicit-id
+msgid "Types of {otherName} jobs"
+msgstr "Types of {otherName} jobs"
+
+#. js-lingui-explicit-id
+msgid "Please select at least one type"
+msgstr "Please select at least one type"
+
+#. js-lingui-explicit-id
+msgid "Price {otherName}"
+msgstr "Price {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter price for {otherName}"
+msgstr "Please enter price for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Category {otherName}"
+msgstr "Category {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter category for {otherName}"
+msgstr "Please enter category for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Brand {otherName}"
+msgstr "Brand {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter brand for {otherName}"
+msgstr "Please enter brand for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Mileage {otherName}"
+msgstr "Mileage {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter mileage for {otherName}"
+msgstr "Please enter mileage for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Year release {otherName}"
+msgstr "Year release {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
+msgstr "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type fuel {otherName}"
+msgstr "Type fuel {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type fuel for {otherName}"
+msgstr "Please enter type fuel for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type transmission {otherName}"
+msgstr "Type transmission {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type transmission for {otherName}"
+msgstr "Please enter type transmission for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type parts {otherName}"
+msgstr "Type parts {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type parts for {otherName}"
+msgstr "Please enter type parts for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Incorrectly entered data"
+msgstr "Incorrectly entered data"
+
+#. js-lingui-explicit-id
+msgid "Images {otherName}"
+msgstr "Images {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please add images for {otherName}"
+msgstr "Please add images for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "advert"
+msgstr "advert"
+
+#. js-lingui-explicit-id
+msgid "Maintenance"
+msgstr "Maintenance"
+
+#. js-lingui-explicit-id
+msgid "Oil change / Filter replacement / Timing belt replacement / Spark plug replacement / Transmission oil change / Brake service / Replacement of all necessary fluids / Etc."
+msgstr "Oil change / Filter replacement / Timing belt replacement / Spark plug replacement / Transmission oil change / Brake service / Replacement of all necessary fluids / Etc."
+
+#. js-lingui-explicit-id
+msgid "Diagnostics"
+msgstr "Diagnostics"
+
+#. js-lingui-explicit-id
+msgid "Pre-purchase comprehensive diagnostics / Chassis diagnostics / Engine diagnostics / Transmission diagnostics / Body diagnostics / Computer diagnostics / Fluid diagnostics / Etc."
+msgstr "Pre-purchase comprehensive diagnostics / Chassis diagnostics / Engine diagnostics / Transmission diagnostics / Body diagnostics / Computer diagnostics / Fluid diagnostics / Etc."
+
+#. js-lingui-explicit-id
+msgid "Auto Electrical"
+msgstr "Auto Electrical"
+
+#. js-lingui-explicit-id
+msgid "Wiring repair / Chip tuning / Installation of any complexity alarm / Odometer correction / Key reprogramming / Engine and transmission adaptation / EGR removal / DPF removal / Xenon installation / Parking sensors installation / Etc."
+msgstr "Wiring repair / Chip tuning / Installation of any complexity alarm / Odometer correction / Key reprogramming / Engine and transmission adaptation / EGR removal / DPF removal / Xenon installation / Parking sensors installation / Etc."
+
+#. js-lingui-explicit-id
+msgid "Chassis Repair"
+msgstr "Chassis Repair"
+
+#. js-lingui-explicit-id
+msgid "Shock absorber strut replacement / Spring replacement / Control arm replacement / Beam replacement / Silent block pressing / Leaf spring replacement / Hub replacement / Saw blade replacement / Axle replacement / Ball joint replacement / Engine and transmission mount replacement / Mechanical work"
+msgstr "Shock absorber strut replacement / Spring replacement / Control arm replacement / Beam replacement / Silent block pressing / Leaf spring replacement / Hub replacement / Saw blade replacement / Axle replacement / Ball joint replacement / Engine and transmission mount replacement / Mechanical work"
+
+#. js-lingui-explicit-id
+msgid "Engine, Automatic, and Manual Transmission"
+msgstr "Engine, Automatic, and Manual Transmission"
+
+#. js-lingui-explicit-id
+msgid "Engine diagnostics / Engine repair / Engine replacement / Engine oil pan replacement / Automatic transmission diagnostics / Automatic transmission oil change / Automatic transmission replacement / Automatic transmission cleaning-flushing / Clutch replacement / Manual transmission diagnostics / Manual transmission oil change / Manual transmission replacement / Manual transmission cleaning-flushing / Etc."
+msgstr "Engine diagnostics / Engine repair / Engine replacement / Engine oil pan replacement / Automatic transmission diagnostics / Automatic transmission oil change / Automatic transmission replacement / Automatic transmission cleaning-flushing / Clutch replacement / Manual transmission diagnostics / Manual transmission oil change / Manual transmission replacement / Manual transmission cleaning-flushing / Etc."
+
+#. js-lingui-explicit-id
+msgid "Brakes and Steering System"
+msgstr "Brakes and Steering System"
+
+#. js-lingui-explicit-id
+msgid "Brake system diagnostics / Brake fluid replacement / Brake system repair / Brake bleeding / Steering rack replacement / Steering rack restoration / Power steering replacement / Power steering fluid replacement / Etc."
+msgstr "Brake system diagnostics / Brake fluid replacement / Brake system repair / Brake bleeding / Steering rack replacement / Steering rack restoration / Power steering replacement / Power steering fluid replacement / Etc."
+
+#. js-lingui-explicit-id
+msgid "Accessory Equipment"
+msgstr "Accessory Equipment"
+
+#. js-lingui-explicit-id
+msgid "Starter repair / Starter replacement / Generator repair / Generator replacement / Turbocharger restoration / Turbocharger replacement / Etc."
+msgstr "Starter repair / Starter replacement / Generator repair / Generator replacement / Turbocharger restoration / Turbocharger replacement / Etc."
+
+#. js-lingui-explicit-id
+msgid "Air Conditioning Systems"
+msgstr "Air Conditioning Systems"
+
+#. js-lingui-explicit-id
+msgid "Diagnostics / Charging / Recharging / Leak detection / Pipe replacement / Radiator replacement / Compressor repair / Compressor replacement / System disinfection / Elimination of foreign odors"
+msgstr "Diagnostics / Charging / Recharging / Leak detection / Pipe replacement / Radiator replacement / Compressor repair / Compressor replacement / System disinfection / Elimination of foreign odors"
+
+#. js-lingui-explicit-id
+msgid "Wheel Alignment"
+msgstr "Wheel Alignment"
+
+#. js-lingui-explicit-id
+msgid "Wheel alignment / Alignment diagnostics / Suspension defect search / Body defect search"
+msgstr "Wheel alignment / Alignment diagnostics / Suspension defect search / Body defect search"
+
+#. js-lingui-explicit-id
+msgid "Technical maintenance"
+msgstr "Technical maintenance"
+
+#. js-lingui-explicit-id
+msgid "Cable lubrication / Carburetor synchronization / Air filter replacement / Spark plug replacement / Transmission oil change / Differential oil change / Coolant replacement / Engine oil change"
+msgstr "Cable lubrication / Carburetor synchronization / Air filter replacement / Spark plug replacement / Transmission oil change / Differential oil change / Coolant replacement / Engine oil change"
+
+#. js-lingui-explicit-id
+msgid "General works"
+msgstr "General works"
+
+#. js-lingui-explicit-id
+msgid "General diagnostics / Compression measurement / Technical fluid level check / Clutch cable replacement / Throttle cable replacement / Fuel tank cleaning and flushing / Fuel tank removal and installation / Plastic removal and installation / Safety arch, slider installation"
+msgstr "General diagnostics / Compression measurement / Technical fluid level check / Clutch cable replacement / Throttle cable replacement / Fuel tank cleaning and flushing / Fuel tank removal and installation / Plastic removal and installation / Safety arch, slider installation"
+
+#. js-lingui-explicit-id
+msgid "Chassis"
+msgstr "Chassis"
+
+#. js-lingui-explicit-id
+msgid "Front wheel removal and installation / Rear wheel removal and installation / Wheel bearing replacement / Steering column bearing adjustment / Steering column bearing replacement / Front fork removal and installation / Front fork seal replacement / Front fork oil change / Rear swingarm bearing replacement / Rear shock absorber replacement / Monoshock absorber replacement / Rear shock absorber repair"
+msgstr "Front wheel removal and installation / Rear wheel removal and installation / Wheel bearing replacement / Steering column bearing adjustment / Steering column bearing replacement / Front fork removal and installation / Front fork seal replacement / Front fork oil change / Rear swingarm bearing replacement / Rear shock absorber replacement / Monoshock absorber replacement / Rear shock absorber repair"
+
+#. js-lingui-explicit-id
+msgid "Drive chain"
+msgstr "Drive chain"
+
+#. js-lingui-explicit-id
+msgid "Drive chain and sprocket replacement / Chain cleaning, lubrication, and adjustment / Chain adjustment, tensioning, and lubrication"
+msgstr "Drive chain and sprocket replacement / Chain cleaning, lubrication, and adjustment / Chain adjustment, tensioning, and lubrication"
+
+#. js-lingui-explicit-id
+msgid "Engine"
+msgstr "Engine"
+
+#. js-lingui-explicit-id
+msgid "Removal and installation / Valve adjustment / Clutch replacement / Cylinder head repair / Timing chain replacement / Piston group repair / Gearbox repair / Engine overhaul"
+msgstr "Removal and installation / Valve adjustment / Clutch replacement / Cylinder head repair / Timing chain replacement / Piston group repair / Gearbox repair / Engine overhaul"
+
+#. js-lingui-explicit-id
+msgid "Electrics"
+msgstr "Electrics"
+
+#. js-lingui-explicit-id
+msgid "Regulator relay replacement / Alternator replacement / Starter replacement / Starter repair / Bulb replacement / Xenon installation / Battery replacement / Battery charging"
+msgstr "Regulator relay replacement / Alternator replacement / Starter replacement / Starter repair / Bulb replacement / Xenon installation / Battery replacement / Battery charging"
+
+#. js-lingui-explicit-id
+msgid "Brake system"
+msgstr "Brake system"
+
+#. js-lingui-explicit-id
+msgid "Disk brake pad replacement / Drum brake pad replacement / Brake bleeding / Brake fluid replacement / Combined brake fluid replacement / Brake hose replacement / Reinforced hose installation / Brake disk replacement / Brake caliper repair"
+msgstr "Disk brake pad replacement / Drum brake pad replacement / Brake bleeding / Brake fluid replacement / Combined brake fluid replacement / Brake hose replacement / Reinforced hose installation / Brake disk replacement / Brake caliper repair"
+
+#. js-lingui-explicit-id
+msgid "Plastic repair"
+msgstr "Plastic repair"
+
+#. js-lingui-explicit-id
+msgid "Welding/restoration of fragments/restoration of fasteners"
+msgstr "Welding/restoration of fragments/restoration of fasteners"
+
+#. js-lingui-explicit-id
+msgid "Welding works"
+msgstr "Welding works"
+
+#. js-lingui-explicit-id
+msgid "Electric arc welding / Semi-automatic welding / Argon arc welding"
+msgstr "Electric arc welding / Semi-automatic welding / Argon arc welding"
+
+#. js-lingui-explicit-id
+msgid "Tuning and customization"
+msgstr "Tuning and customization"
+
+#. js-lingui-explicit-id
+msgid "Protective arch installation / Slider installation / Exhaust system installation / Brake system installation / Reinforced hose installation / Xenon installation / Motorcycle lighting installation / Fog light installation (FL)"
+msgstr "Protective arch installation / Slider installation / Exhaust system installation / Brake system installation / Reinforced hose installation / Xenon installation / Motorcycle lighting installation / Fog light installation (FL)"
+
+#. js-lingui-explicit-id
+msgid "About {nameApp}"
+msgstr "About {nameApp}"
+
+#. js-lingui-explicit-id
+msgid "Welcome to {nameApp} – your mobile companion in the world of cars and motorcycles! This app is designed for those who want to easily and conveniently buy and sell vehicle parts, as well as vehicles themselves, gear, and much more."
+msgstr "Welcome to {nameApp} – your mobile companion in the world of cars and motorcycles! This app is designed for those who want to easily and conveniently buy and sell vehicle parts, as well as vehicles themselves, gear, and much more."
+
+#. js-lingui-explicit-id
+msgid "Key features of the app:"
+msgstr "Key features of the app:"
+
+#. js-lingui-explicit-id
+msgid "Trading Parts and Vehicles: You can post ads for selling or buying parts, vehicles, and gear."
+msgstr "Trading Parts and Vehicles: You can post ads for selling or buying parts, vehicles, and gear."
+
+#. js-lingui-explicit-id
+msgid "Workshop Finder: Easily find the necessary workshop or service station, read reviews about them, or add your own workshop."
+msgstr "Workshop Finder: Easily find the necessary workshop or service station, read reviews about them, or add your own workshop."
+
+#. js-lingui-explicit-id
+msgid "Events and Activities: Discover exciting events in the auto and moto world, such as festivals, competitions, and meetups. You can also create your own events."
+msgstr "Events and Activities: Discover exciting events in the auto and moto world, such as festivals, competitions, and meetups. You can also create your own events."
+
+#. js-lingui-explicit-id
+msgid "Map: Find nearby workshops, events, and ads."
+msgstr "Map: Find nearby workshops, events, and ads."
+
+#. js-lingui-explicit-id
+msgid "Shops: If you have a store with auto or moto products, you can add your merchandise and offer it to other users."
+msgstr "Shops: If you have a store with auto or moto products, you can add your merchandise and offer it to other users."
+
+#. js-lingui-explicit-id
+msgid "We are always striving to improve our app and make it even better for you. Therefore, we would appreciate your feedback and suggestions for its enhancement. Together, we can take {nameApp} to the next level!"
+msgstr "We are always striving to improve our app and make it even better for you. Therefore, we would appreciate your feedback and suggestions for its enhancement. Together, we can take {nameApp} to the next level!"
+
+#. js-lingui-explicit-id
+msgid "Thank you for choosing {nameApp}!"
+msgstr "Thank you for choosing {nameApp}!"
+
+#. js-lingui-explicit-id
+msgid "How to delete personal data?"
+msgstr "How to delete personal data?"
+
+#. js-lingui-explicit-id
+msgid "If you wish to have your personal data deleted from the Moto Auto Road Assistant (M.A.R.A.) mobile application and website, you need to access the application, proceed to your profile, then go to the profile settings. At the top left corner, you will find the \"Delete\" button. After pressing it, your account will be deleted along with all your publications. Then, you will be redirected to the \"Welcome\" page where you can register again."
+msgstr "If you wish to have your personal data deleted from the Moto Auto Road Assistant (M.A.R.A.) mobile application and website, you need to access the application, proceed to your profile, then go to the profile settings. At the top left corner, you will find the \"Delete\" button. After pressing it, your account will be deleted along with all your publications. Then, you will be redirected to the \"Welcome\" page where you can register again."
+
+#. js-lingui-explicit-id
+msgid "All user data is being deleted. The following data will be erased:"
+msgstr "All user data is being deleted. The following data will be erased:"
+
+#. js-lingui-explicit-id
+msgid "Google authorization (email, first name, last name, etc.)"
+msgstr "Google authorization (email, first name, last name, etc.)"
+
+#. js-lingui-explicit-id
+msgid "Meta (Facebook) authorization (email, first name, last name, etc.)"
+msgstr "Meta (Facebook) authorization (email, first name, last name, etc.)"
+
+#. js-lingui-explicit-id
+msgid "Apple authorization (email, first name, last name, etc.)"
+msgstr "Apple authorization (email, first name, last name, etc.)"
+
+#. js-lingui-explicit-id
+msgid "All user posts, announcements, workshops, etc"
+msgstr "All user posts, announcements, workshops, etc"
+
+#. js-lingui-explicit-id
+msgid "Moto Auto Road Assistant"
+msgstr "Moto Auto Road Assistant"
+
+#. js-lingui-explicit-id
+msgid "Roadside Help When You Need It"
+msgstr "Roadside Help When You Need It"
+
+#. js-lingui-explicit-id
+msgid "Connect with fast help on the road – whether it's towing, repair, or support. Your reliable companion for automotive emergencies."
+msgstr "Connect with fast help on the road – whether it's towing, repair, or support. Your reliable companion for automotive emergencies."
+
+#. js-lingui-explicit-id
+msgid "Available on"
+msgstr "Available on"
+
+#. js-lingui-explicit-id
+msgid "App Store"
+msgstr "App Store"
+
+#. js-lingui-explicit-id
+msgid "Google Play"
+msgstr "Google Play"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#. js-lingui-explicit-id
+msgid "Last updated:"
+msgstr "Last updated:"
+
+#. js-lingui-explicit-id
+msgid "February {date}, {year}"
+msgstr "February {date}, {year}"
+
+#. js-lingui-explicit-id
+msgid "\"{nameApp}\" mobile and web applications developed by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). This Privacy Policy outlines how we collect, use, and protect your information when you use our mobile application (\"Service\")."
+msgstr "\"{nameApp}\" mobile and web applications developed by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). This Privacy Policy outlines how we collect, use, and protect your information when you use our mobile application (\"Service\")."
+
+#. js-lingui-explicit-id
+msgid "Information We Collect"
+msgstr "Information We Collect"
+
+#. js-lingui-explicit-id
+msgid "Personal Information"
+msgstr "Personal Information"
+
+#. js-lingui-explicit-id
+msgid "To provide you with the best experience, we may collect personally identifiable information, such as your email address, first name, last name, and phone number. This information is used to personalize your experience, communicate important updates, and for AI-powered content verification purposes."
+msgstr "To provide you with the best experience, we may collect personally identifiable information, such as your email address, first name, last name, and phone number. This information is used to personalize your experience, communicate important updates, and for AI-powered content verification purposes."
+
+#. js-lingui-explicit-id
+msgid "Usage Data"
+msgstr "Usage Data"
+
+#. js-lingui-explicit-id
+msgid "We automatically collect usage data when you interact with our Service. This data may include your IP address, device type, location, operating system, app version, and usage patterns. This information helps us improve the app's performance, enhance user experience, and train our AI verification systems."
+msgstr "We automatically collect usage data when you interact with our Service. This data may include your IP address, device type, location, operating system, app version, and usage patterns. This information helps us improve the app's performance, enhance user experience, and train our AI verification systems."
+
+#. js-lingui-explicit-id
+msgid "Content and AI Processing Data"
+msgstr "Content and AI Processing Data"
+
+#. js-lingui-explicit-id
+msgid "When you submit content (events, workshops, comments, photos), this data is processed by our AI verification system to ensure compliance with community standards. The AI analysis includes content classification, sentiment analysis, and policy compliance checking. This processing is automated and helps maintain a safe environment for all users."
+msgstr "When you submit content (events, workshops, comments, photos), this data is processed by our AI verification system to ensure compliance with community standards. The AI analysis includes content classification, sentiment analysis, and policy compliance checking. This processing is automated and helps maintain a safe environment for all users."
+
+#. js-lingui-explicit-id
+msgid "Your Location"
+msgstr "Your Location"
+
+#. js-lingui-explicit-id
+msgid "When you use the M.A.R.A. app and explicitly grant permission, we may collect and process your location data to provide you with assistance services. Your location information is solely used to facilitate efficient assistance in case of emergencies or when requested by you. We do not share this information with any third parties without your explicit consent, and it is securely stored within our system. At any time, you have the option to revoke this permission and disable location tracking through the app settings. We prioritize the security and confidentiality of your personal information and adhere to stringent privacy standards to safeguard your data."
+msgstr "When you use the M.A.R.A. app and explicitly grant permission, we may collect and process your location data to provide you with assistance services. Your location information is solely used to facilitate efficient assistance in case of emergencies or when requested by you. We do not share this information with any third parties without your explicit consent, and it is securely stored within our system. At any time, you have the option to revoke this permission and disable location tracking through the app settings. We prioritize the security and confidentiality of your personal information and adhere to stringent privacy standards to safeguard your data."
+
+#. js-lingui-explicit-id
+msgid "AI Model Training and Improvement"
+msgstr "AI Model Training and Improvement"
+
+#. js-lingui-explicit-id
+msgid "We use anonymized and aggregated user content to train and improve our AI verification systems. This data is processed in accordance with applicable privacy laws and is used solely to enhance the accuracy and effectiveness of our content moderation capabilities. No personal identifiable information is used in AI training processes."
+msgstr "We use anonymized and aggregated user content to train and improve our AI verification systems. This data is processed in accordance with applicable privacy laws and is used solely to enhance the accuracy and effectiveness of our content moderation capabilities. No personal identifiable information is used in AI training processes."
+
+#. js-lingui-explicit-id
+msgid "How We Use Your Information"
+msgstr "How We Use Your Information"
+
+#. js-lingui-explicit-id
+msgid "AI-Powered Content Moderation"
+msgstr "AI-Powered Content Moderation"
+
+#. js-lingui-explicit-id
+msgid "App M.A.R.A.(Moto Auto Road Assistance) uses artificial intelligence to automatically verify and moderate user-generated content including events, workshops, and comments. When you submit content, it is analyzed by our AI system to ensure compliance with community standards. This AI processing helps maintain a safe and appropriate environment for all users. The AI system checks for inappropriate content, spam, hate speech, and other policy violations. Content that violates our policies will be automatically rejected, and users will be notified of the decision."
+msgstr "App M.A.R.A.(Moto Auto Road Assistance) uses artificial intelligence to automatically verify and moderate user-generated content including events, workshops, and comments. When you submit content, it is analyzed by our AI system to ensure compliance with community standards. This AI processing helps maintain a safe and appropriate environment for all users. The AI system checks for inappropriate content, spam, hate speech, and other policy violations. Content that violates our policies will be automatically rejected, and users will be notified of the decision."
+
+#. js-lingui-explicit-id
+msgid "Location Data for SOS Function"
+msgstr "Location Data for SOS Function"
+
+#. js-lingui-explicit-id
+msgid "App M.A.R.A.(Moto Auto Road Assistance) collects location data to enable for the \"SOS\" function so that other app users can assist you even when the app is closed or not in use. When you use the M.A.R.A. app and explicitly grant permission, we may collect and process your location data to provide you with assistance services. Your location information is solely used to facilitate efficient assistance in case of emergencies or when requested by you. We do not share this information with any third parties without your explicit consent, and it is securely stored within our system. At any time, you have the option to revoke this permission and disable location tracking through the app settings. We prioritize the security and confidentiality of your personal information and adhere to stringent privacy standards to safeguard your data."
+msgstr "App M.A.R.A.(Moto Auto Road Assistance) collects location data to enable for the \"SOS\" function so that other app users can assist you even when the app is closed or not in use. When you use the M.A.R.A. app and explicitly grant permission, we may collect and process your location data to provide you with assistance services. Your location information is solely used to facilitate efficient assistance in case of emergencies or when requested by you. We do not share this information with any third parties without your explicit consent, and it is securely stored within our system. At any time, you have the option to revoke this permission and disable location tracking through the app settings. We prioritize the security and confidentiality of your personal information and adhere to stringent privacy standards to safeguard your data."
+
+#. js-lingui-explicit-id
+msgid "Analytics and AI System Improvement"
+msgstr "Analytics and AI System Improvement"
+
+#. js-lingui-explicit-id
+msgid "We track user behavior and engagement to better understand how the app is used and identify areas for improvement. This data is anonymized and aggregated for analytical purposes and to enhance the performance of our AI verification systems."
+msgstr "We track user behavior and engagement to better understand how the app is used and identify areas for improvement. This data is anonymized and aggregated for analytical purposes and to enhance the performance of our AI verification systems."
+
+#. js-lingui-explicit-id
+msgid "Data Security and AI Processing"
+msgstr "Data Security and AI Processing"
+
+#. js-lingui-explicit-id
+msgid "We are committed to safeguarding your data and have implemented appropriate measures to prevent unauthorized access, disclosure, alteration, or destruction of your personal information. All AI processing is conducted using secure systems with appropriate privacy safeguards."
+msgstr "We are committed to safeguarding your data and have implemented appropriate measures to prevent unauthorized access, disclosure, alteration, or destruction of your personal information. All AI processing is conducted using secure systems with appropriate privacy safeguards."
+
+#. js-lingui-explicit-id
+msgid "Third-Party AI Services"
+msgstr "Third-Party AI Services"
+
+#. js-lingui-explicit-id
+msgid "We use third-party AI services (OpenAI) to power our content verification and moderation systems. These providers process content on our behalf following strict privacy and security protocols. Your content is shared with these services solely for verification purposes and is handled in accordance with their privacy policies and applicable data protection laws."
+msgstr "We use third-party AI services (OpenAI) to power our content verification and moderation systems. These providers process content on our behalf following strict privacy and security protocols. Your content is shared with these services solely for verification purposes and is handled in accordance with their privacy policies and applicable data protection laws."
+
+#. js-lingui-explicit-id
+msgid "Your Rights and Choices"
+msgstr "Your Rights and Choices"
+
+#. js-lingui-explicit-id
+msgid "You can control your data shared with us by managing app permissions on your device. You can also opt out of receiving promotional emails by following the unsubscribe link included in those emails. If your content is rejected by our AI moderation system, you have the right to appeal the decision by contacting our support team. You may also request access to or deletion of your personal data in accordance with applicable privacy laws."
+msgstr "You can control your data shared with us by managing app permissions on your device. You can also opt out of receiving promotional emails by following the unsubscribe link included in those emails. If your content is rejected by our AI moderation system, you have the right to appeal the decision by contacting our support team. You may also request access to or deletion of your personal data in accordance with applicable privacy laws."
+
+#. js-lingui-explicit-id
+msgid "Changes to this Privacy Policy"
+msgstr "Changes to this Privacy Policy"
+
+#. js-lingui-explicit-id
+msgid "We may update this Privacy Policy as necessary to reflect changes in our practices or for legal reasons. We recommend reviewing this page periodically for the latest information."
+msgstr "We may update this Privacy Policy as necessary to reflect changes in our practices or for legal reasons. We recommend reviewing this page periodically for the latest information."
+
+#. js-lingui-explicit-id
+msgid "Contact Us"
+msgstr "Contact Us"
+
+#. js-lingui-explicit-id
+msgid "If you have any questions, concerns, or requests regarding your personal information or this Privacy Policy, please contact us at "
+msgstr "If you have any questions, concerns, or requests regarding your personal information or this Privacy Policy, please contact us at "
+
+#. js-lingui-explicit-id
+msgid "No avatar"
+msgstr "No avatar"
+
+#. js-lingui-explicit-id
+msgid "First name"
+msgstr "First name"
+
+#. js-lingui-explicit-id
+msgid "No first name"
+msgstr "No first name"
+
+#. js-lingui-explicit-id
+msgid "Last name"
+msgstr "Last name"
+
+#. js-lingui-explicit-id
+msgid "No last name"
+msgstr "No last name"
+
+#. js-lingui-explicit-id
+msgid "Phone number"
+msgstr "Phone number"
+
+#. js-lingui-explicit-id
+msgid "No phone number"
+msgstr "No phone number"
+
+#. js-lingui-explicit-id
+msgid "Email"
+msgstr "Email"
+
+#. js-lingui-explicit-id
+msgid "Country"
+msgstr "Country"
+
+#. js-lingui-explicit-id
+msgid "Region"
+msgstr "Region"
+
+#. js-lingui-explicit-id
+msgid "Place"
+msgstr "Place"
+
+#. js-lingui-explicit-id
+msgid "Language"
+msgstr "Language"
+
+#. js-lingui-explicit-id
+msgid "Business name"
+msgstr "Business name"
+
+#. js-lingui-explicit-id
+msgid "No business name"
+msgstr "No business name"
+
+#. js-lingui-explicit-id
+msgid "Events used"
+msgstr "Events used"
+
+#. js-lingui-explicit-id
+msgid "Events available"
+msgstr "Events available"
+
+#. js-lingui-explicit-id
+msgid "Workshops used"
+msgstr "Workshops used"
+
+#. js-lingui-explicit-id
+msgid "Workshops available"
+msgstr "Workshops available"
+
+#. js-lingui-explicit-id
+msgid "Products used"
+msgstr "Products used"
+
+#. js-lingui-explicit-id
+msgid "Products available"
+msgstr "Products available"
+
+#. js-lingui-explicit-id
+msgid "Upload"
+msgstr "Upload"
+
+#. js-lingui-explicit-id
+msgid "Show more"
+msgstr "Show more"
+
+#. js-lingui-explicit-id
+msgid "Create workshop"
+msgstr "Create workshop"
+
+#. js-lingui-explicit-id
+msgid "workshop"
+msgstr "workshop"
+
+#. js-lingui-explicit-id
+msgid "All types of workshops"
+msgstr "All types of workshops"
+
+#. js-lingui-explicit-id
+msgid "Moto workshop"
+msgstr "Moto workshop"
+
+#. js-lingui-explicit-id
+msgid "Auto workshop"
+msgstr "Auto workshop"
+
+#. js-lingui-explicit-id
+msgid "Name workshop"
+msgstr "Name workshop"
+
+#. js-lingui-explicit-id
+msgid "Place workshop"
+msgstr "Place workshop"
+
+#. js-lingui-explicit-id
+msgid "Not selected place"
+msgstr "Not selected place"
+
+#. js-lingui-explicit-id
+msgid "Change place workshop"
+msgstr "Change place workshop"
+
+#. js-lingui-explicit-id
+msgid "Select place workshop"
+msgstr "Select place workshop"
+
+#. js-lingui-explicit-id
+msgid "Description workshop"
+msgstr "Description workshop"
+
+#. js-lingui-explicit-id
+msgid "Selected type workshop"
+msgstr "Selected type workshop"
+
+#. js-lingui-explicit-id
+msgid "Change type workshop"
+msgstr "Change type workshop"
+
+#. js-lingui-explicit-id
+msgid "Selected type moto services"
+msgstr "Selected type moto services"
+
+#. js-lingui-explicit-id
+msgid "Selected type auto services"
+msgstr "Selected type auto services"
+
+#. js-lingui-explicit-id
+msgid "Change type services"
+msgstr "Change type services"
+
+#. js-lingui-explicit-id
+msgid "Select type services"
+msgstr "Select type services"
+
+#. js-lingui-explicit-id
+msgid "Add photo"
+msgstr "Add photo"
+
+#. js-lingui-explicit-id
+msgid "Loading..."
+msgstr "Loading..."
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#. js-lingui-explicit-id
+msgid "\"{nameApp}\" mobile application developed by Vadym Bezsmertnyi, FOP. (\"us\", \"we\", or \"our\"). By accessing or using our mobile application (\"Service\"), you (User) agree to comply with and be bound by these Terms of Use. Please read these terms carefully before using our app."
+msgstr "\"{nameApp}\" mobile application developed by Vadym Bezsmertnyi, FOP. (\"us\", \"we\", or \"our\"). By accessing or using our mobile application (\"Service\"), you (User) agree to comply with and be bound by these Terms of Use. Please read these terms carefully before using our app."
+
+#. js-lingui-explicit-id
+msgid "1. End-User License Agreement (EULA)"
+msgstr "1. End-User License Agreement (EULA)"
+
+#. js-lingui-explicit-id
+msgid "This End-User License Agreement (\"Agreement\") is a legal contract between you (\"User\") and Vadym Bezsmertnyi FOP (\"Company\") regarding the use of {nameApp} (\"App\"). By downloading, installing and using the App, the User agrees to be bound by the terms and conditions of this Agreement and acknowledge that the User has read, understood, and agreed to these Terms of Use. If the User doesn't not agree with any part of these terms, please do not use our app."
+msgstr "This End-User License Agreement (\"Agreement\") is a legal contract between you (\"User\") and Vadym Bezsmertnyi FOP (\"Company\") regarding the use of {nameApp} (\"App\"). By downloading, installing and using the App, the User agrees to be bound by the terms and conditions of this Agreement and acknowledge that the User has read, understood, and agreed to these Terms of Use. If the User doesn't not agree with any part of these terms, please do not use our app."
+
+#. js-lingui-explicit-id
+msgid "1.1 License Grant"
+msgstr "1.1 License Grant"
+
+#. js-lingui-explicit-id
+msgid "Vadym Bezsmertnyi, FOP grants the User a non-exclusive, non-transferable, revocable license to use the App solely for personal, non-commercial purposes. This license does not grant the User any rights to the intellectual property, including copyrights, trademarks, or patents, associated with the App."
+msgstr "Vadym Bezsmertnyi, FOP grants the User a non-exclusive, non-transferable, revocable license to use the App solely for personal, non-commercial purposes. This license does not grant the User any rights to the intellectual property, including copyrights, trademarks, or patents, associated with the App."
+
+#. js-lingui-explicit-id
+msgid "2. Use of the Service"
+msgstr "2. Use of the Service"
+
+#. js-lingui-explicit-id
+msgid "2.1 Usage Requirements"
+msgstr "2.1 Usage Requirements"
+
+#. js-lingui-explicit-id
+msgid "The User must be at least 18 years old to use our app. By using the Service, the User represents and warrants that the User is at least 18 years old."
+msgstr "The User must be at least 18 years old to use our app. By using the Service, the User represents and warrants that the User is at least 18 years old."
+
+#. js-lingui-explicit-id
+msgid "2.2 User Conduct"
+msgstr "2.2 User Conduct"
+
+#. js-lingui-explicit-id
+msgid "The User agrees not to use the Service for any unlawful or unauthorized purpose. The User also agrees not to interfere with the proper working of the app or disrupt it in any way."
+msgstr "The User agrees not to use the Service for any unlawful or unauthorized purpose. The User also agrees not to interfere with the proper working of the app or disrupt it in any way."
+
+#. js-lingui-explicit-id
+msgid "2.3 User Responsibilities"
+msgstr "2.3 User Responsibilities"
+
+#. js-lingui-explicit-id
+msgid "- The User agrees to comply with all applicable laws and regulations when using the App."
+msgstr "- The User agrees to comply with all applicable laws and regulations when using the App."
+
+#. js-lingui-explicit-id
+msgid "- The User may not, under any circumstances, reverse engineer, decompile, disassemble, or attempt to derive the source code of the App."
+msgstr "- The User may not, under any circumstances, reverse engineer, decompile, disassemble, or attempt to derive the source code of the App."
+
+#. js-lingui-explicit-id
+msgid "- The User may not use the App in any way that may cause harm to Vadym Bezsmertnyi, FOP or other users, including but not limited to transmitting malware or engaging in fraudulent activities."
+msgstr "- The User may not use the App in any way that may cause harm to Vadym Bezsmertnyi, FOP or other users, including but not limited to transmitting malware or engaging in fraudulent activities."
+
+#. js-lingui-explicit-id
+msgid "3. User-Generated Content and AI Verification"
+msgstr "3. User-Generated Content and AI Verification"
+
+#. js-lingui-explicit-id
+msgid "3.1 Photo Collection"
+msgstr "3.1 Photo Collection"
+
+#. js-lingui-explicit-id
+msgid "We may collect photos taken using our application's camera to enhance our application. Your contributions are extremely valuable to improve the quality of the application."
+msgstr "We may collect photos taken using our application's camera to enhance our application. Your contributions are extremely valuable to improve the quality of the application."
+
+#. js-lingui-explicit-id
+msgid "3.2 AI-Powered Content Verification"
+msgstr "3.2 AI-Powered Content Verification"
+
+#. js-lingui-explicit-id
+msgid "All user-generated content, including events, workshops, and comments, is automatically verified using artificial intelligence (AI) technology. This AI system analyzes content to ensure it complies with our community standards and content policies. The verification process includes checking for inappropriate content, spam, hate speech, and violations of intellectual property rights."
+msgstr "All user-generated content, including events, workshops, and comments, is automatically verified using artificial intelligence (AI) technology. This AI system analyzes content to ensure it complies with our community standards and content policies. The verification process includes checking for inappropriate content, spam, hate speech, and violations of intellectual property rights."
+
+#. js-lingui-explicit-id
+msgid "3.3 Automated Moderation"
+msgstr "3.3 Automated Moderation"
+
+#. js-lingui-explicit-id
+msgid "Our AI moderation system automatically reviews and may reject content that violates our terms. Content that is flagged by the AI system will not be published and the user will be notified of the rejection. Users have the right to appeal moderation decisions by contacting our support team."
+msgstr "Our AI moderation system automatically reviews and may reject content that violates our terms. Content that is flagged by the AI system will not be published and the user will be notified of the rejection. Users have the right to appeal moderation decisions by contacting our support team."
+
+#. js-lingui-explicit-id
+msgid "3.4 Data Ownership"
+msgstr "3.4 Data Ownership"
+
+#. js-lingui-explicit-id
+msgid "By submitting photos and content, the User grants us a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, adapt, and distribute the content for the purpose of enhancing our app, including AI training and verification processes."
+msgstr "By submitting photos and content, the User grants us a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, adapt, and distribute the content for the purpose of enhancing our app, including AI training and verification processes."
+
+#. js-lingui-explicit-id
+msgid "3.5 User-Provided Content"
+msgstr "3.5 User-Provided Content"
+
+#. js-lingui-explicit-id
+msgid "We may collect any content provided by the user to enhance our application. Your contribution is extremely valuable to improve the quality of the application and may be used to improve our AI verification systems."
+msgstr "We may collect any content provided by the user to enhance our application. Your contribution is extremely valuable to improve the quality of the application and may be used to improve our AI verification systems."
+
+#. js-lingui-explicit-id
+msgid "4. Payment"
+msgstr "4. Payment"
+
+#. js-lingui-explicit-id
+msgid "Payment information is securely processed by third-party payment providers, and we do not store sensitive payment details on our servers."
+msgstr "Payment information is securely processed by third-party payment providers, and we do not store sensitive payment details on our servers."
+
+#. js-lingui-explicit-id
+msgid "4.1 Refunds"
+msgstr "4.1 Refunds"
+
+#. js-lingui-explicit-id
+msgid "Refund requests are considered on a case-by-case basis. If you believe you are entitled to a refund, please contact us at "
+msgstr "Refund requests are considered on a case-by-case basis. If you believe you are entitled to a refund, please contact us at "
+
+#. js-lingui-explicit-id
+msgid " with the details of your request. We will review your request and respond as promptly as possible."
+msgstr " with the details of your request. We will review your request and respond as promptly as possible."
+
+#. js-lingui-explicit-id
+msgid "5. Content Standards and AI Moderation Rules"
+msgstr "5. Content Standards and AI Moderation Rules"
+
+#. js-lingui-explicit-id
+msgid "All user-generated content is automatically verified by our AI system. The AI enforces the following content standards (violations result in automatic rejection):"
+msgstr "All user-generated content is automatically verified by our AI system. The AI enforces the following content standards (violations result in automatic rejection):"
+
+#. js-lingui-explicit-id
+msgid "1. Prohibited: offensive, hateful, discriminatory, or violent content"
+msgstr "1. Prohibited: offensive, hateful, discriminatory, or violent content"
+
+#. js-lingui-explicit-id
+msgid "2. Prohibited: adult or pornographic content"
+msgstr "2. Prohibited: adult or pornographic content"
+
+#. js-lingui-explicit-id
+msgid "3. Prohibited: copyright or intellectual property violations"
+msgstr "3. Prohibited: copyright or intellectual property violations"
+
+#. js-lingui-explicit-id
+msgid "4. Prohibited: false or misleading information"
+msgstr "4. Prohibited: false or misleading information"
+
+#. js-lingui-explicit-id
+msgid "5. Prohibited: spam or excessive advertising"
+msgstr "5. Prohibited: spam or excessive advertising"
+
+#. js-lingui-explicit-id
+msgid "6. Prohibited: personal information without consent"
+msgstr "6. Prohibited: personal information without consent"
+
+#. js-lingui-explicit-id
+msgid "7. Prohibited: content promoting illegal activities or violating laws"
+msgstr "7. Prohibited: content promoting illegal activities or violating laws"
+
+#. js-lingui-explicit-id
+msgid "8. Prohibited: malware or viruses"
+msgstr "8. Prohibited: malware or viruses"
+
+#. js-lingui-explicit-id
+msgid "9. Prohibited: irrelevant content for events or workshops"
+msgstr "9. Prohibited: irrelevant content for events or workshops"
+
+#. js-lingui-explicit-id
+msgid "10. Prohibited: nonsensical content or random characters"
+msgstr "10. Prohibited: nonsensical content or random characters"
+
+#. js-lingui-explicit-id
+msgid "11. Prohibited: hate speech or calls to violence - for events"
+msgstr "11. Prohibited: hate speech or calls to violence - for events"
+
+#. js-lingui-explicit-id
+msgid "6. Privacy and AI Processing"
+msgstr "6. Privacy and AI Processing"
+
+#. js-lingui-explicit-id
+msgid "We collect and process personal information and usage data as described in our Privacy Policy. By using our app, the User consent to our collection and use of this information, including AI-powered content analysis and verification as outlined in the Privacy Policy."
+msgstr "We collect and process personal information and usage data as described in our Privacy Policy. By using our app, the User consent to our collection and use of this information, including AI-powered content analysis and verification as outlined in the Privacy Policy."
+
+#. js-lingui-explicit-id
+msgid "7. Limitation of Liability"
+msgstr "7. Limitation of Liability"
+
+#. js-lingui-explicit-id
+msgid "Vadym Bezsmertnyi, FOP shall not be liable for direct, indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, including but not limited to errors in AI content verification or automated moderation decisions."
+msgstr "Vadym Bezsmertnyi, FOP shall not be liable for direct, indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, including but not limited to errors in AI content verification or automated moderation decisions."
+
+#. js-lingui-explicit-id
+msgid "8. Changes to Terms of Use"
+msgstr "8. Changes to Terms of Use"
+
+#. js-lingui-explicit-id
+msgid "We reserve the right to modify these Terms of Use at any time. Changes will be effective upon posting. Continued use of the app after any modifications indicate your acceptance of the modified terms."
+msgstr "We reserve the right to modify these Terms of Use at any time. Changes will be effective upon posting. Continued use of the app after any modifications indicate your acceptance of the modified terms."
+
+#. js-lingui-explicit-id
+msgid "9. Update and Support"
+msgstr "9. Update and Support"
+
+#. js-lingui-explicit-id
+msgid "We may provide updates to the App as it sees fit, which may include bug fixes, enhancements, and new features, including improvements to AI verification systems. Vadym Bezsmertnyi, FOP is not obligated to provide support or maintenance for the App."
+msgstr "We may provide updates to the App as it sees fit, which may include bug fixes, enhancements, and new features, including improvements to AI verification systems. Vadym Bezsmertnyi, FOP is not obligated to provide support or maintenance for the App."
+
+#. js-lingui-explicit-id
+msgid "10. Termination"
+msgstr "10. Termination"
+
+#. js-lingui-explicit-id
+msgid "Vadym Bezsmertnyi, FOP reserves the right to terminate or suspend the User's license to use the App at its sole discretion, including for repeated violations of content policies detected by AI systems. Upon termination, the User must cease using the App and remove it from their device."
+msgstr "Vadym Bezsmertnyi, FOP reserves the right to terminate or suspend the User's license to use the App at its sole discretion, including for repeated violations of content policies detected by AI systems. Upon termination, the User must cease using the App and remove it from their device."
+
+#. js-lingui-explicit-id
+msgid "11. Disclaimer of Warranties"
+msgstr "11. Disclaimer of Warranties"
+
+#. js-lingui-explicit-id
+msgid "The App is provided \"as is\" and \"as available\" without warranties of any kind. Vadym Bezsmertnyi, FOP disclaims all warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. This includes no guarantees regarding the accuracy or completeness of AI content verification."
+msgstr "The App is provided \"as is\" and \"as available\" without warranties of any kind. Vadym Bezsmertnyi, FOP disclaims all warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. This includes no guarantees regarding the accuracy or completeness of AI content verification."
+
+#. js-lingui-explicit-id
+msgid "12. Governing Law"
+msgstr "12. Governing Law"
+
+#. js-lingui-explicit-id
+msgid "This Agreement is governed by and construed in accordance with the laws of the Ukraine, without regard to its conflict of law principles."
+msgstr "This Agreement is governed by and construed in accordance with the laws of the Ukraine, without regard to its conflict of law principles."
+
+#. js-lingui-explicit-id
+msgid "13. Contact Us"
+msgstr "13. Contact Us"
+
+#. js-lingui-explicit-id
+msgid "If you have any questions, concerns, or feedback about these Terms of Use, please contact us at "
+msgstr "If you have any questions, concerns, or feedback about these Terms of Use, please contact us at "
