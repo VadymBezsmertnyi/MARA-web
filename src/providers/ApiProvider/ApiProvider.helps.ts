@@ -21,7 +21,7 @@ export const getEnv = (): AppManifestEnvT => {
 
 export const getApiUrl = () => {
   const { APP_DOMAIN_WEB, APP_PORT } = getEnv();
-  const herokuServer = "https://api.example.com";
+  const herokuServer = process.env.NEXT_PUBLIC_API_URL || "https://api.example.com";
   const api = `http://${APP_DOMAIN_WEB}:${APP_PORT}`;
   if (process.env.NODE_ENV === "development") return api;
   return herokuServer;

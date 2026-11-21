@@ -43,3 +43,7 @@ keys.txt
 # other
 package-lock.json
 yarn.lock
+.env.*
+!.env.example
+*.p8
+*.pem
